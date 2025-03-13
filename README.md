@@ -75,7 +75,7 @@ This tool streamlines the recruitment process by automating the time-consuming t
 1. **Clone the repository**
    ```bash
    git clone https://github.com/jerry-619/AI-Resume-Parser.git
-   cd resume-ai-parser
+   cd AI-Resume-Parser
    ```
 
 2. **Backend Setup**
@@ -93,6 +93,12 @@ This tool streamlines the recruitment process by automating the time-consuming t
    CHATGPT_MODEL=your_chatgpt_model
    LLAMA_MODEL=your_llama_model
    ```
+
+   Create `uploads` folder in backend directory:
+   ```bash
+   mkdir uploads
+   ```
+   This folder is required for storing temporarily uploaded resume files.
 
 3. **Frontend Setup**
    ```bash
@@ -150,7 +156,3 @@ For support or inquiries, please contact:
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-```

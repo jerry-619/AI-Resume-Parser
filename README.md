@@ -74,7 +74,7 @@ This tool streamlines the recruitment process by automating the time-consuming t
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jerry-619/AI-Resume-Parser.git
    cd resume-ai-parser
    ```
 

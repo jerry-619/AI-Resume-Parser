@@ -1,0 +1,39 @@
+# ✅ Node.js Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# ✅ Environment Variables (Secrets)
+.env
+
+# ✅ Logs & Debug Files
+logs/
+*.log
+debug.log
+nohup.out
+
+# ✅ Uploaded Resumes (Multer Storage)
+uploads/
+*.pdf
+*.docx
+*.txt
+
+# ✅ Jest & Test Coverage Files
+coverage/
+jest-cache/
+jest-test-results.json
+
+# ✅ Editor & OS Specific Files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.vscode/*
+*.swp
+*.swo
+
+# ✅ Build & Temporary Files
+dist/
+temp/
+*.tmp

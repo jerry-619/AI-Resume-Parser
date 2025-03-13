@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mammoth": "^1.9.0",
+    "node-tesseract-ocr": "^2.2.1",
+    "openai": "^4.87.3"
+  }
+}
